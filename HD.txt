@@ -1,1 +1,2 @@
 ﻿Demo sử dụng Github trên Windows.
+Các chức năng cơ bản.
